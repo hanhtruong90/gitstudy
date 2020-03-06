@@ -5,4 +5,5 @@
     echo 'git reset commit';
     echo 'hoa';
     echo 'hong';
+    echo "du lieu them vao ne";
 ?>
