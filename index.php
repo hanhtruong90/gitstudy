@@ -4,4 +4,5 @@
     echo 'revert2';
     echo 'git reset commit';
     echo 'hoa';
+    echo 'hong';
 ?>
