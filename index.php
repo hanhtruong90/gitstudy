@@ -10,4 +10,5 @@
     echo "du lieu them vao master ne";
     echo 'du lieu stash';
     echo "du lieu stash2";
+    echo "commit 1";
 ?>
