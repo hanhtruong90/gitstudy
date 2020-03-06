@@ -9,4 +9,5 @@
     echo "hoa bang lang";
     echo "du lieu them vao master ne";
     echo 'du lieu stash';
+    echo "du lieu stash2";
 ?>
