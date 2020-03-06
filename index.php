@@ -11,4 +11,5 @@
     echo 'du lieu stash';
     echo "du lieu stash2";
     echo "commit 1";
+    echo "commit 2";
 ?>
